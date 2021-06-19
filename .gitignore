@@ -1,3 +1,10 @@
+Includes/
+Debug/
+.settings/
+.cproject
+.project
+.xml
+
 # Prerequisites
 *.d
 
